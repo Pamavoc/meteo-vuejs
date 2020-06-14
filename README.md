@@ -16,8 +16,8 @@ HOW IT WORKS
 - In the first form we have an input with a method linked to it : @keypress.enter="goMeteo". 
 
 - In our < script > of Meteo.vue, 
-    > we have data() a function of an object whichg return some properties for the API (api_code, url_looking) & our future data (temps property). These informations are crucial to do the request to the api.
-    > we have the method goMeteo() which is where the API call takes place
+    > We have data() a function of an object whichg return some properties for the API (api_code, url_looking) & our future data (temps property). These informations are crucial to do the request to the api.
+    > &  We have the method goMeteo() which is where the API call takes place
  
 - With axios, an HTTP client based on Promises, we can do the request.
 - On the .get we can choose the language we want for the data, it's in the link we use.
