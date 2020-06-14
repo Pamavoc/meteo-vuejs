@@ -1,5 +1,7 @@
 # METEO VUE-JS 
 
+pamavoc-meteo-app.netlify.app
+
 Quick meteo-app made in VueJS with Openweather API
 
 STRUCTURE OF THE APP
