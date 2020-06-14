@@ -2,7 +2,7 @@
 
 https://pamavoc-meteo-app.netlify.app
 
-Quick meteo-app made in VueJS with Openweather API
+Quick meteo-app made in VueJS with Openweather API & bootstrap
 
 <b>STRUCTURE OF THE APP</b>
 
@@ -28,8 +28,11 @@ Meteo.vue is the children of App.vue.
 
 THAT'S ALL ;)
 
+<b>ROADMAP</b>
 
-
+v1.1: display more info
+v1.2: add a real UI
+v1.3: more widgets 
 
 
 ## Project setup
