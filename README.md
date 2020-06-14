@@ -1,6 +1,6 @@
 # METEO VUE-JS 
 
-Quick to-do-list made in VueJS with Openweather
+Quick meteo-app made in VueJS with Openweather API
 
 STRUCTURE OF THE APP
 
