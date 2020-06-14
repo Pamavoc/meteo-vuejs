@@ -1,4 +1,4 @@
-# mon-app
+# METEO VUE-JS 
 
 ## Project setup
 ```
