@@ -4,13 +4,13 @@ pamavoc-meteo-app.netlify.app
 
 Quick meteo-app made in VueJS with Openweather API
 
-STRUCTURE OF THE APP
+<b>STRUCTURE OF THE APP</b>
 
 We have a Meteo.vue component & App.vue component.
 Meteo.vue is the children of App.vue.
 
 
-HOW IT WORKS
+<b>HOW IT WORKS</b>
 
 - Meteo.vue component is imported to our App.vue component in the < script > so it's displayed with a < meteo > in our < template >
 - Meteo.vue is where the logic & appearance is placed.
