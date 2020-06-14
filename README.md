@@ -34,7 +34,7 @@ THAT'S ALL ;)
 
 - v1.2: add a real UI
 
-- v1.3: more widgets 
+- v1.3: detect temperature and generate a gradient-background linked to it
 
 
 
