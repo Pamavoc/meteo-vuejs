@@ -28,6 +28,10 @@
 
 import axios from 'axios'
 
+
+require('dotenv').config()
+
+
 export default {
 
     name: 'Meteo',
@@ -35,7 +39,7 @@ export default {
     return {
       requete: '',
       temps: undefined, //objet de données
-      api_code: 'your_openweatherAPI',
+      api_code: process.env.VUE_APP_KEY,
       url_looking: `https://api.openweathermap.org/data/2.5/weather?`
     }
   },
