@@ -32,7 +32,7 @@ THAT'S ALL ;)
 
 ## Project setup
 ```
-npm install & add your personnal openweather API key to Meteo.vue
+npm install & add your personnal openweather API key to the .env_sample file
 ```
 
 ### Compiles and hot-reloads for development
