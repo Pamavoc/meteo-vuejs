@@ -13,7 +13,7 @@ Meteo.vue is the children of App.vue.
 <b>HOW IT WORKS</b>
 
 - Meteo.vue component is imported to our App.vue component in the < script > so it's displayed with a < meteo > in our < template >
-- Meteo.vue is where the logic & appearance is placed.
+- Meteo.vue is where the logic & appearance are placed.
 - We have a container with a form (to enter a city) & a container to display the result we retrieve from the API.
 - In the first form we have an input with a method linked to it : @keypress.enter="goMeteo". 
 
