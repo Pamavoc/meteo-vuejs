@@ -26,7 +26,6 @@ Meteo.vue is the children of App.vue.
 - After the request, we get an object and we just have to select the informations we want (console.log & chrome dev tool are here to help).
 - To display the data we just received, we use our second container inside the < template > of Meteo.vue
 
-THAT'S ALL ;)
 
 <b>ROADMAP</b>
 
