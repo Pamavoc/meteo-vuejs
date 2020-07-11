@@ -7,7 +7,7 @@ Quick meteo-app made in VueJS with Openweather API & bootstrap
 <b>STRUCTURE OF THE APP</b>
 
 We have a Meteo.vue component & App.vue component.
-Meteo.vue is the children of App.vue.
+Meteo.vue is the child of App.vue.
 
 
 <b>HOW IT WORKS</b>
